@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image: linear-gradient(to bottom right, rgb(213, 216, 221), #FFF);
+}
+
+@import "style.scss"; //main styles
+@import "media.scss"; //media inquiries
+
